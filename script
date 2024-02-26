@@ -1,4 +1,3 @@
--- Created by Dino_V
 
 local start = tick()
 local finish
